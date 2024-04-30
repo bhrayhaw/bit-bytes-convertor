@@ -6,4 +6,6 @@ Tracy will handle the bits to bytes conversion
 Martha will handle the exiting of the program
 Nana Ama will handle the invalid choice
 """
-name= "Tracy"
+print(" ********************************************* \n\tWelcome to our bit byte convertor\n ********************************************* \n")
+print("\n Chooose your option: ")
+print("1. Bits-Bytes Conversion \n2. Bytes-Bits Conversion \n3. Exit \n")
