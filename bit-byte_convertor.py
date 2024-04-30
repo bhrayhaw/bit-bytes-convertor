@@ -8,3 +8,12 @@ Nana Ama will handle the invalid choice
 """
 print(" ********************************************* \n\tWelcome to our bit byte convertor\n ********************************************* \n")
 print("1. Bits-Bytes Conversion \n2. Bytes-Bits Conversion \n3. Exit \n")
+
+
+#Check user choice and perform corresponding conversion
+
+if choice == '2':
+        #Bits to bytes conversion
+        bits_value = float(input("Enter the value in bits: "))
+        bytes_value = bits_value // 8 
+        print(f"{bits_value} bits is equal to {bytes_value} bytes.\n")
