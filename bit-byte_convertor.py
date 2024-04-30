@@ -7,5 +7,4 @@ Martha will handle the exiting of the program
 Nana Ama will handle the invalid choice
 """
 print(" ********************************************* \n\tWelcome to our bit byte convertor\n ********************************************* \n")
-print("\n Chooose your option: ")
 print("1. Bits-Bytes Conversion \n2. Bytes-Bits Conversion \n3. Exit \n")
