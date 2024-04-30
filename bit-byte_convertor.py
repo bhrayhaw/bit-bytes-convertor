@@ -17,3 +17,5 @@ if choice == '2':
         bits_value = float(input("Enter the value in bits: "))
         bytes_value = bits_value // 8 
         print(f"{bits_value} bits is equal to {bytes_value} bytes.\n")
+else: 
+    print("invalid choice please enter 1,2,3")
